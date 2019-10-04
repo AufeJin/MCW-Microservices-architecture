@@ -1,5 +1,7 @@
 # Microservices architecture
 
+## This workshop is no longer being maintained and will be archived on December 31, 2019.
+
 Contoso Events is an online service for concerts, sporting and other event ticket sales. They are redesigning their solution for scale with a microservices strategy and want to implement a proof of concept (POC) for the path that receives the most traffic; ticket ordering.
 
 June 2019
